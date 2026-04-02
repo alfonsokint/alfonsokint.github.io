@@ -1,0 +1,29 @@
+# robots.txt for https://www.alfonsokint.com
+# Allows all crawlers; includes sitemap location.
+
+User-agent: *
+Allow: /
+
+# Specific Google crawlers (explicit, but Allow:/ above already permits everything)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+Sitemap: https://www.alfonsokint.com/sitemap.xml

@@ -1,0 +1,778 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.alfonsokint.com" resolutions="1x" timestamp="1742586635723">
+  <folder name="css">
+    <file name="site_global.css" crc="4184549357"/>
+    <file name="sonandounlugar.css" crc="456642710" ref="sonandounlugar"/>
+    <file name="index.css" crc="161215768" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="soniando_un_lugar_press_book_2022_internet.pdf" crc="388201443" seo="true" mt="1615461294000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="kintutils.js" crc="340535759" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="kintconfig.js" crc="4286661555" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="jquery.kintpolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>sonandounlugar:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="kintwpdisclosure.js" crc="3883500470" ref="phone>index:tablet>index:index"/>
+    <file name="kintwpslideshow.js" crc="3862962738" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="jquery.kintoverlay.js" crc="4147669564" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="211407550" ref="phone>index"/>
+    <file name="phone-bio_02.jpg" crc="4029838621" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot hatch fine.png" crc="3911273588" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soñando-un-lugar-fotograma-27-u34429-fr.jpg" crc="4100693776" ref="phone>index"/>
+    <file name="soñando-un-lugar-fotograma-27-blur-u34429-r-fr.jpg" crc="212030263" ref="phone>index"/>
+    <file name="soñando-un-lugar-fotograma-27-blur-u34429-m-fr.png" crc="3836173177" ref="phone>index"/>
+    <file name="flecha-blue-flecha-blue-u19551.png" crc="361641188" ref="phone>index"/>
+    <file name="phone-video.jpg" crc="478391512" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="phone-storyboard.jpg" crc="123096805" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-pintura-blur02.jpg" crc="3764273412" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="la-caracola-sobre-el-lavadero_alfonso-kint.jpg" crc="4087116140" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Caracola sobre lavadero. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Caracola sobre lavadero. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="stanislaw_alfonsokint.jpg" crc="39223527" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="stanisław. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="stanisław. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Stanisław. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="antonina_alfonsokint.jpg" crc="4208161694" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Antonina. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Antonina. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Antonina. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="conversacion_de_un_millon_de_dolares_alfonso-kint.jpg" crc="335024736" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Conversación de un millón de dolares. 2013. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Conversación de un millón de dolares. 2013. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Conversación de un millón de dolares. 2013. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="en-la-cima_alfonso-kint.png" crc="4270829827" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="En la cima. 2011. Acrílico sobre dos lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="En la cima. 2011. Acrílico sobre dos lienzos. Alfonso Kint"/>
+    </file>
+    <file name="mural-alhama-es-agua.jpg" crc="3851965470" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="¿Qué escuchas, cariño?. 2010. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="¿Qué escuchas, cariño?. 2010. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="el-puente-roma-amor_alfonso-kint.jpg" crc="373065703" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="El Puente Roma- AmoR. 2011. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="El Puente Roma- AmoR. 2011. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="divagando_alfonso-kint.jpg" crc="390052363" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Divagando. 2004. Óleo sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Divagando. 2004. Óleo sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Divagando. 2004. Óleo sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="padres_alfonso-kint.jpg" crc="3937334736" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Padres. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Padres. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Padres. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="el-intruso.png" crc="274228294" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="El intruso. 2007. Acrílico sobre dos lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="El intruso. 2007. Acrílico sobre dos lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="El intruso. 2007. Acrílico sobre dos lienzos. Alfonso Kint"/>
+    </file>
+    <file name="autorretrato_alfonso-kint.jpg" crc="67563615" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Autorretrato. 2007. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Autorretrato. 2007. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Autorretrato. 2007. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="abuelos_alfonso-kint.jpg" crc="4195970742" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Abuelos. 2007. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Abuelos. 2007. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Abuelos. 2007. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="carmencita.jpg" crc="3789768197" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Corpus Christina. 2007. Técnica mixta sobre siete lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="Corpus Christina. 2007. Técnica mixta sobre siete lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="Corpus Christina. 2007. Técnica mixta sobre siete lienzos. Alfonso Kint"/>
+    </file>
+    <file name="encuentro_alfonso-kint.png" crc="4094348093" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Encuentro. 2007. Acrílico sobre tres lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="Encuentro. 2007. Acrílico sobre tres lienzos. Alfonso Kint"/>
+    </file>
+    <file name="infancia_alfonso-kint.png" crc="305593029" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Infancia. 2007. Técnica mixta sobre tres lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="Infancia. 2007. Técnica mixta sobre tres lienzos. Alfonso Kint"/>
+    </file>
+    <file name="el-sur_alfonso-kint.jpg" crc="3805267510" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="El Sur. 2005 Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="El Sur. 2005 Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="lunita_alfonso-kint.jpg" crc="4033978465" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Luna. 2005. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Luna. 2005. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="wilde_alfonso-kint.jpg" crc="532759110" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Wilde. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Wilde. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Wilde. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="radiador_alfonso-kint.jpg" crc="77599075" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Radiador. 2015. Pintura pulverizada sobre metal. Alfonso Kint"/>
+      <caption webpage="index" alt="Radiador. 2015. Pintura pulverizada sobre metal. Alfonso Kint"/>
+    </file>
+    <file name="hoz_alfonso-kint.jpg" crc="3877136677" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Hoz sobre Granada. 2000. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Hoz sobre Granada. 2000. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="calefaccion-lichtenstein_alfonso-kint.jpg" crc="489778971" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Calefaccion Lichtenstein. 2003. Pintura térmica sobre metal. Alfonso Kint"/>
+      <caption webpage="index" alt="Calefaccion Lichtenstein. 2003. Pintura térmica sobre metal. Alfonso Kint"/>
+    </file>
+    <file name="renault02_alfonso-kint.jpg" crc="205389584" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+    </file>
+    <file name="renault01_alfonso-kint.jpg" crc="348544389" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+    </file>
+    <file name="chica-wc.jpg" crc="9623828" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt="Chicas WC. 2007. Acrílico sobre madera. Alfonso Kint"/>
+      <caption webpage="index" alt="Chicas WC. 2007. Acrílico sobre madera. Alfonso Kint"/>
+      <caption webpage="index" alt="Chicas WC. 2007. Acrílico sobre madera. Alfonso Kint"/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar"/>
+    <file name="phone-contacto.jpg" crc="101201471" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footericon03.png" crc="188072960" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footericon02.png" crc="4157289281" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_facebook.png" crc="462442366" seo="true" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="logo_twitter.png" crc="3909838321" seo="true" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="logo_vimeo-circle.png" crc="181630911" seo="true" ref="phone>index:phone>sonandounlugar:tablet>index:tablet>sonandounlugar:index:sonandounlugar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="00-soñando un lugar-fotograma ok-u26082-fr.jpg" crc="4158934475" ref="phone>sonandounlugar"/>
+    <file name="soniando_fotograma_00337x190.jpg" crc="4049162644" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_01337x190.jpg" crc="4233990561" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_04.jpg" crc="3980418305" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_05337x190.jpg" crc="3999695134" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_09337x190.jpg" crc="4231815248" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_10337x190.jpg" crc="295857879" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_11337x190.jpg" crc="407083580" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_12337x190.jpg" crc="4225932365" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_13337x190.jpg" crc="3979633859" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_14337x190.jpg" crc="4013758187" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_15337x190.jpg" crc="191212945" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_21337x190.jpg" crc="4213640107" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_22337x190.jpg" crc="100559958" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_27337x190.jpg" crc="359442818" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_28337x190.jpg" crc="326301281" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_30337x190.jpg" crc="4115849358" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_32337x190.jpg" crc="36027848" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_33337x190.jpg" crc="84511963" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_38337x190.jpg" crc="6424662" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_41337x190.jpg" crc="68417187" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_42337x190.jpg" crc="28065566" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_44337x190.jpg" crc="77202675" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_45337x190.jpg" crc="285822865" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_47337x190.jpg" crc="4067728604" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_48337x190.jpg" crc="525004533" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_50337x190.jpg" crc="45338268" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_53337x190.jpg" crc="300507282" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_54337x190.jpg" crc="324304875" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_58337x190.jpg" crc="4243335964" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_57337x190.jpg" crc="3797589850" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_60337x190.jpg" crc="3988290576" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_61337x190.jpg" crc="395186676" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_65337x190.jpg" crc="4137508024" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt="Caracola sobre lavadero. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="soniando_fotograma_68337x190.jpg" crc="4055913763" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_70337x190.jpg" crc="3904349549" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_72337x190.jpg" crc="295904911" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_gustavo_duch379x198.jpg" crc="4168718483" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_natalia_ibanez379x198.jpg" crc="362096875" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_anonimo379x198.jpg" crc="4144901007" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_anton-castro379x198.jpg" crc="199584335" seo="true" ref="phone>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="tablet-bio_02.jpg" crc="490150542" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-blue-flecha-blue-u19556.png" crc="292787043" ref="tablet>index"/>
+    <file name="soñando-un-lugar-fotograma-27.jpg" crc="458680535" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soñando-un-lugar-fotograma-27-blur.jpg" crc="4109905691" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soñando-un-lugar-fotograma-27-blur-u34411-m-fr.png" crc="130104762" ref="tablet>index"/>
+    <file name="tablet-video.jpg" crc="3798897322" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tablet-storyboard.jpg" crc="249994050" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tablet-pintura-blur.jpg" crc="485040457" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="la-caracola-sobre-el-lavadero_alfonso-kint2.jpg" crc="511521658" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Caracola sobre lavadero. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Caracola sobre lavadero. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="divagando_alfonso-kint2.jpg" crc="3992112719" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Divagando. 2004. Óleo sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Divagando. 2004. Óleo sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="mural-alhama-es-agua-crop-u18403.jpg" crc="3901393801" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="¿Qué escuchas, cariño?. 2010. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="en-la-cima_alfonso-kint.jpg" crc="534022305" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="En la cima. 2011. Acrílico sobre dos lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="En la cima. 2011. Acrílico sobre dos lienzos. Alfonso Kint"/>
+    </file>
+    <file name="padres_alfonso-kint2.jpg" crc="16637916" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Padres. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Padres. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="abuelos_alfonso-kint2.jpg" crc="4075667339" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Abuelos. 2007. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Abuelos. 2007. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="el-intruso.jpg" crc="4028714086" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="El Intruso. 2007. Técnica mixta sobre dos lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="El Intruso. 2007. Técnica mixta sobre dos lienzos. Alfonso Kint"/>
+    </file>
+    <file name="carmencita187x191.jpg" crc="4068764299" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Corpus Christina. 2007. Técnica mixta sobre siete lienzos. Alfonso Kint"/>
+    </file>
+    <file name="conversacion_de_un_millon_de_dolares_alfonso-kint2.jpg" crc="21637968" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Conversación de un millón de dolares. 2013. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Conversación de un millón de dolares. 2013. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="antonina_alfonsokint2.jpg" crc="4268481702" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Antonina. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Antonina. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="stanislaw_alfonsokint2.jpg" crc="4168522697" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Stanisław. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Stanisław. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="autorretrato_alfonso-kint2.jpg" crc="3849245325" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Autorretrato. 2007. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Autorretrato. 2007. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="encuentro_alfonso-kint.jpg" crc="3945921416" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Encuentro. 2007. Acrílico sobre tres lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="Encuentro. 2007. Acrílico sobre tres lienzos. Alfonso Kint"/>
+    </file>
+    <file name="infancia_alfonso-kint.jpg" crc="174465908" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Infancia. 2007. Técnica mixta sobre tres lienzos. Alfonso Kint"/>
+      <caption webpage="index" alt="Infancia. 2007. Técnica mixta sobre tres lienzos. Alfonso Kint"/>
+    </file>
+    <file name="el-puente-roma-amor_alfonso-kint2.jpg" crc="218286970" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="El Puente Roma- AmoR. 2011. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="El Puente Roma- AmoR. 2011. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="lunita_alfonso-kint2.jpg" crc="3779657960" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Luna. 2005. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Luna. 2005. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="wilde_alfonso-kint2.jpg" crc="3861956989" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Wilde. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Wilde. 2006. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="el-sur_alfonso-kint2.jpg" crc="348720666" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="El Sur. 2005 Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="El Sur. 2005 Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="calefaccion-lichtenstein_alfonso-kint2.jpg" crc="166764230" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Calefaccion Lichtenstein. 2003. Pintura térmica sobre metal. Alfonso Kint"/>
+      <caption webpage="index" alt="Calefaccion Lichtenstein. 2003. Pintura térmica sobre metal. Alfonso Kint"/>
+    </file>
+    <file name="radiador_alfonso-kint2.jpg" crc="4279099121" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Radiador. 2015. Pintura pulverizada sobre metal. Alfonso Kint"/>
+      <caption webpage="index" alt="Radiador. 2015. Grafitti sobre metal. Alfonso Kint"/>
+    </file>
+    <file name="hoz_alfonso-kint2.jpg" crc="124795286" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Hoz sobre Granada. 2000. Acrílico sobre lienzo. Alfonso Kint"/>
+      <caption webpage="index" alt="Hoz sobre Granada. 2000. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="renault02_alfonso-kint2.jpg" crc="3814703398" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+    </file>
+    <file name="renault01_alfonso-kint2.jpg" crc="4230893667" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+    </file>
+    <file name="chica-wc2.jpg" crc="4078582031" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Chicas WC. 2007. Acrílico sobre madera. Alfonso Kint"/>
+      <caption webpage="index" alt="Chicas WC. 2007. Acrílico sobre madera. Alfonso Kint"/>
+    </file>
+    <file name="la-caracola-sobre-el-lavadero_alfonso-kint729x540.jpg" crc="138790620" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Caracola sobre lavadero. 2014. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="mural-alhama-es-agua725x539.jpg" crc="205622859" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="¿Qué escuchas, cariño?. 2010. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="en-la-cima_alfonso-kint724x346.png" crc="207098084" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="En la cima. 2011. Acrílico sobre dos lienzos. Alfonso Kint"/>
+    </file>
+    <file name="encuentro_alfonso-kint724x238.png" crc="297201689" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Encuentro. 2007. Acrílico sobre tres lienzos. Alfonso Kint"/>
+    </file>
+    <file name="infancia_alfonso-kint724x216.png" crc="97028163" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Infancia. 2007. Técnica mixta sobre tres lienzos. Alfonso Kint"/>
+    </file>
+    <file name="el-puente-roma-amor_alfonso-kint724x446.jpg" crc="237394666" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="El Puente Roma- AmoR. 2011. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="lunita_alfonso-kint729x572.jpg" crc="463447922" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Luna. 2005. Técnica mixta sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="el-sur_alfonso-kint729x513.jpg" crc="102108538" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="El Sur. 2005 Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="calefaccion-lichtenstein_alfonso-kint729x487.jpg" crc="3800286791" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Calefaccion Lichtenstein. 2003. Pintura térmica sobre metal. Alfonso Kint"/>
+    </file>
+    <file name="radiador_alfonso-kint729x522.jpg" crc="3767422803" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Radiador. 2015. Pintura pulverizada sobre metal. Alfonso Kint"/>
+    </file>
+    <file name="hoz_alfonso-kint729x561.jpg" crc="180911508" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Hoz sobre Granada. 2000. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="renault02_alfonso-kint729x581.jpg" crc="473863119" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+    </file>
+    <file name="renault01_alfonso-kint729x581.jpg" crc="4130537534" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Arte abstracto en tu coche. 2004. Pintura sobre chapa. Alfonso Kint"/>
+    </file>
+    <file name="tablet-contacto.jpg" crc="3914190276" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-pueblo-de-greta768x346.jpg" crc="2622436" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="00-soñando un lugar-fotograma ok-u31331-fr.jpg" crc="4139688306" ref="tablet>sonandounlugar"/>
+    <file name="soniando_header_gustavo_duch768x402.jpg" crc="3866041577" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_natalia_ibanez768x402.jpg" crc="4089995428" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_anonimo768x402.jpg" crc="3800839220" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_anton-castro768x402.jpg" crc="356086087" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_00724x408.jpg" crc="189575965" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_01724x408.jpg" crc="465480842" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_05724x408.jpg" crc="14514288" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_09724x408.jpg" crc="4061156576" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_10724x408.jpg" crc="4049845762" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_11724x408.jpg" crc="3825653042" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_12724x408.jpg" crc="378607967" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_13724x408.jpg" crc="4055561154" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_14724x408.jpg" crc="4204630863" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_15724x408.jpg" crc="4096482649" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_21724x408.jpg" crc="125541333" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_22724x408.jpg" crc="332156045" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_27724x408.jpg" crc="50127545" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_28724x408.jpg" crc="338322671" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_30724x408.jpg" crc="4239890204" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_32724x408.jpg" crc="3913198134" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_33724x408.jpg" crc="257046286" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_38724x408.jpg" crc="13883974" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_41724x408.jpg" crc="3914415371" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_42724x408.jpg" crc="171463169" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_44724x408.jpg" crc="115168093" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_45724x408.jpg" crc="227890472" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_47724x408.jpg" crc="4202300783" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_48724x408.jpg" crc="367292012" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_50724x408.jpg" crc="3888544642" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_53724x408.jpg" crc="17220278" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_54724x408.jpg" crc="3986077380" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_58724x408.jpg" crc="4049875411" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_57724x408.jpg" crc="322009183" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_60724x408.jpg" crc="126731942" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_61724x408.jpg" crc="241636484" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_65724x408.jpg" crc="29080673" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_68724x408.jpg" crc="4067032737" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_70724x408.jpg" crc="3934664202" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_72724x408.jpg" crc="3875793038" seo="true" ref="tablet>sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="bio-header_alfonso-kint.jpg" crc="186852153" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soñando-un-lugar-fotograma-27-blur-u34375-m-fr.png" crc="130104762" ref="index"/>
+    <file name="flecha-blue-flecha-blue-u19545.png" crc="292787043" ref="index"/>
+    <file name="video-header02_alfonso-kint.jpg" crc="473540009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="storyboard-header-blur02.jpg" crc="3909416459" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="escritorio-pintura-blur.jpg" crc="3828986395" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mural-alhama-es-agua-crop-u16372.jpg" crc="3850946259" seo="true" ref="index">
+      <caption webpage="index" alt="¿Qué escuchas, cariño?. 2010. Acrílico sobre lienzo. Alfonso Kint"/>
+    </file>
+    <file name="carmencita193x197.jpg" crc="429952626" seo="true" ref="index">
+      <caption webpage="index" alt="Corpus Christina. 2007. Técnica mixta sobre siete lienzos. Alfonso Kint"/>
+    </file>
+    <file name="contacto-header_alfonso-kint.jpg" crc="4168120092" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-pueblo-de-greta.jpg" crc="416595262" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="00-soñando un lugar-fotograma ok.jpg" crc="27221508" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_gustavo_duch.jpg" crc="4070569274" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_natalia_ibanez.jpg" crc="199279510" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_anonimo.jpg" crc="13794886" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_header_anton-castro.jpg" crc="190159284" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_00.jpg" crc="159751390" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_01.jpg" crc="4003197159" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_05.jpg" crc="39784275" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_09.jpg" crc="3844731533" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_10.jpg" crc="390736087" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_11.jpg" crc="3865822129" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_12.jpg" crc="3942239326" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_13.jpg" crc="44828082" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_14.jpg" crc="508797657" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_15.jpg" crc="515026715" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_19.jpg" crc="4198315037" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_21.jpg" crc="136390710" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_22.jpg" crc="3787939229" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_27.jpg" crc="3863334247" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_28.jpg" crc="347282347" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_30.jpg" crc="652658" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_32.jpg" crc="4212796908" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_33.jpg" crc="132255358" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_38.jpg" crc="4244336030" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_41.jpg" crc="233260659" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_42.jpg" crc="12132383" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_44.jpg" crc="3866506703" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_45.jpg" crc="3759421984" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_47.jpg" crc="3839859191" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_48.jpg" crc="3865199179" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_50.jpg" crc="97160562" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_53.jpg" crc="4255131648" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_54.jpg" crc="529084552" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_58.jpg" crc="136206730" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_57.jpg" crc="438294085" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_60.jpg" crc="103077381" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_61.jpg" crc="3903564563" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_65.jpg" crc="3961791371" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_68.jpg" crc="482483450" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_70.jpg" crc="425687712" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+    <file name="soniando_fotograma_72.jpg" crc="382039537" seo="true" ref="sonandounlugar">
+      <caption webpage="sonandounlugar" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4135828904" ref="tablet>index"/>
+      <file name="sonandounlugar.css" crc="248288955" ref="tablet>sonandounlugar"/>
+    </folder>
+    <file name="index.html" crc="66160686" seo="true" mt="1742586132061" redirect="true"/>
+    <file name="sonandounlugar.html" crc="4261813627" seo="true" mt="1742584864667" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="250335440" ref="phone>index"/>
+      <file name="sonandounlugar.css" crc="210961301" ref="phone>sonandounlugar"/>
+    </folder>
+    <file name="index.html" crc="3981005056" seo="true" mt="1742586613684" redirect="true"/>
+    <file name="sonandounlugar.html" crc="283465629" seo="true" mt="1742584843539" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="442147876" seo="true" mt="1742585872570" redirect="true"/>
+  <file name="sonandounlugar.html" crc="43640043" seo="true" mt="1742584886751" redirect="true"/>
+</manifest>
